@@ -1,3 +1,3 @@
-# PKNU SW BOOT CAMP
+# SW BOOT CAMP
 ## PROJECT
 ### Hyeon
