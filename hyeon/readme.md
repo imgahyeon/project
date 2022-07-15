@@ -1,3 +1,3 @@
-# GIT HUB
-## SW BOOT CAMP
-### PROJECT
+# PKNU SW BOOT CAMP
+## PROJECT
+### Hyeon
